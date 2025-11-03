@@ -54,9 +54,4 @@ Tras evaluar los factores analizados, se concluye que:
 
 
 
-## 📘 Enlace al notebook
-
-
-
----
 
